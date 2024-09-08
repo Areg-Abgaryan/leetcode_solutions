@@ -20,14 +20,14 @@ public class IsFascinatingNumber {
     /**
      * O(1) complexity + O(1) space solution
      */
-    static boolean solution(int n) {
+    static boolean solution(int num) {
 
         //  Simple cases
-        if (n > 333) return false;
-        if (String.valueOf(n).endsWith("0")) return false;
+        if (num > 333) return false;
+        if (String.valueOf(num).endsWith("0")) return false;
 
         //  Concatenate 3 numbers to get the candidate
-        final String concatenated = Integer.toString(n) + (2 * n) + 3 * n;
+        final String concatenated = Integer.toString(num) + (2 * num) + 3 * num;
 
         //  Only number with 9 digits can be fascinating
         if (concatenated.length() != 9) return false;

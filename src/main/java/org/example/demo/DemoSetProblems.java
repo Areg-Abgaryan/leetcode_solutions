@@ -11,5 +11,7 @@ public class DemoSetProblems {
     public static void demo() {
         IntersectionOfTwoArrays.demo();
         ContainsDuplicate.demo();
+        CheckIfNAndItsDoubleExist.demo();
+        LargestPositiveWithItsNegative.demo();
     }
 }

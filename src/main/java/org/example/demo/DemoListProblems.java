@@ -11,5 +11,6 @@ public class DemoListProblems {
     public static void demo() {
         MergeTwoSortedLists.demo();
         MiddleOfTheList.demo();
+        RemoveDuplicatesFromSortedList.demo();
     }
 }

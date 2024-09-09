@@ -22,5 +22,6 @@ public class DemoArrayProblems {
         MajorityElement.demo();
         SearchIndexPosition.demo();
         MoveZeroes.demo();
+        SetMismatch.demo();
     }
 }

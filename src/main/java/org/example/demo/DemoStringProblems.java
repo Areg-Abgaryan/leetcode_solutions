@@ -17,5 +17,6 @@ public class DemoStringProblems {
         SpecialCharactersInString.demo();
         FirstLetterToAppearTwice.demo();
         IndexOfTheFirstOccurrence.demo();
+        ReverseString.demo();
     }
 }

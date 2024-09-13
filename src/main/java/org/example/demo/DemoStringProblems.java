@@ -18,5 +18,6 @@ public class DemoStringProblems {
         FirstLetterToAppearTwice.demo();
         IndexOfTheFirstOccurrence.demo();
         ReverseString.demo();
+        LengthOfLastWord.demo();
     }
 }

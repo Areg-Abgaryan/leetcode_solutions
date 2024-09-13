@@ -5,7 +5,7 @@
 package org.example.array;
 
 /**
- * <a href="https://leetcode.com/problems/minimum-common-value/description">...</a>
+ * <a href="https://leetcode.com/problems/minimum-common-value/">...</a>
  */
 public class MinCommonValue {
 

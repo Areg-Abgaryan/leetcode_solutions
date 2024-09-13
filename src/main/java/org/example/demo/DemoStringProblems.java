@@ -19,5 +19,6 @@ public class DemoStringProblems {
         IndexOfTheFirstOccurrence.demo();
         ReverseString.demo();
         LengthOfLastWord.demo();
+        WordPattern.demo();
     }
 }

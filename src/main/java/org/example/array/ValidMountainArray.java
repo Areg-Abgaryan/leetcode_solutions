@@ -5,7 +5,7 @@
 package org.example.array;
 
 /**
- * <a href="https://leetcode.com/problems/valid-mountain-array">...</a>
+ * <a href="https://leetcode.com/problems/valid-mountain-array/">...</a>
  */
 public class ValidMountainArray {
 

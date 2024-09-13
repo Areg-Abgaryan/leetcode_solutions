@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * <a href="https://leetcode.com/problems/two-sum//">...</a>
+ * <a href="https://leetcode.com/problems/two-sum/">...</a>
  */
 public class TwoSum {
 

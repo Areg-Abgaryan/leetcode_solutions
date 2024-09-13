@@ -20,5 +20,6 @@ public class DemoStringProblems {
         ReverseString.demo();
         LengthOfLastWord.demo();
         WordPattern.demo();
+        IsSubsequence.demo();
     }
 }

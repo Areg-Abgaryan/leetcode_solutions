@@ -21,5 +21,6 @@ public class DemoStringProblems {
         LengthOfLastWord.demo();
         WordPattern.demo();
         IsSubsequence.demo();
+        FindTheDifference.demo();
     }
 }

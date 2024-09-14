@@ -22,5 +22,6 @@ public class DemoStringProblems {
         WordPattern.demo();
         IsSubsequence.demo();
         FindTheDifference.demo();
+        DetectCapital.demo();
     }
 }

@@ -23,5 +23,6 @@ public class DemoStringProblems {
         IsSubsequence.demo();
         FindTheDifference.demo();
         DetectCapital.demo();
+        CountSegments.demo();
     }
 }

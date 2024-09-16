@@ -24,5 +24,6 @@ public class DemoStringProblems {
         FindTheDifference.demo();
         DetectCapital.demo();
         CountSegments.demo();
+        FizzBuzz.demo();
     }
 }

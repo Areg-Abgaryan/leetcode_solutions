@@ -26,5 +26,6 @@ public class DemoStringProblems {
         CountSegments.demo();
         FizzBuzz.demo();
         GoatLatin.demo();
+        UncommonWordsFromSentences.demo();
     }
 }

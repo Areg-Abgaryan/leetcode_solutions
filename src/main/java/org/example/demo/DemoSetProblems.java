@@ -13,5 +13,6 @@ public class DemoSetProblems {
         ContainsDuplicate.demo();
         CheckIfNAndItsDoubleExist.demo();
         LargestPositiveWithItsNegative.demo();
+        MostCommonWord.demo();
     }
 }

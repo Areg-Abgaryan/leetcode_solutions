@@ -25,5 +25,6 @@ public class DemoStringProblems {
         DetectCapital.demo();
         CountSegments.demo();
         FizzBuzz.demo();
+        GoatLatin.demo();
     }
 }

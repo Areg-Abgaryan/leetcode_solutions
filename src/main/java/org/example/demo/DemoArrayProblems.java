@@ -23,5 +23,6 @@ public class DemoArrayProblems {
         SearchIndexPosition.demo();
         MoveZeroes.demo();
         SetMismatch.demo();
+        RemoveElement.demo();
     }
 }

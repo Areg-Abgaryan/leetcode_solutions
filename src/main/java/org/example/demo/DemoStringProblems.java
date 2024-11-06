@@ -28,5 +28,6 @@ public class DemoStringProblems {
         GoatLatin.demo();
         UncommonWordsFromSentences.demo();
         BackspaceStringsCompare.demo();
+        LongestPalindrome.demo();
     }
 }

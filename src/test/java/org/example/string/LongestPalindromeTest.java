@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class LongestPalindromeTest {
+class LongestPalindromeTest {
 
     @Test
     @Order(1)

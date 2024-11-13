@@ -24,5 +24,6 @@ public class DemoArrayProblems {
         MoveZeroes.demo();
         SetMismatch.demo();
         RemoveElement.demo();
+        BestTimeToBuyAndSellStock.demo();
     }
 }
